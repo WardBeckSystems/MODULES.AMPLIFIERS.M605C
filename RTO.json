@@ -1,0 +1,106 @@
+{
+ "code": "M605C",
+ "connector": "RTO-144",
+ "type": "Audio Distribution Amplifier",
+ "series": null,
+ "contacts": "19 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M605A",
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "AUD J0 INPUT A PPEARS AT PINS",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 17.jpg",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "AUD J0 INPUT A PPEARS AT PINS",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 17.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "AMPIFIER OUTPUT ORIGINAT ING FROM PINS 18",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 17.jpg",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "THREE LED INDICATOR CIRCUITS",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 19.jpg",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "AMPIFIER OUTPUT ORIGINAT ING FROM PINS 18",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 17.jpg",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "THREE LED INDICATOR CIRCUITS",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 19.jpg",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "AMPIFIER OUTPUT ORIGINAT ING",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 17.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "AMPIFIER OUTPUT ORIGINAT ING",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 17.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 17.jpg",
+  "DOCUMENTS/Internal and Eng Notes and drawings/Quotations brochures and misc papers/19xx - DOC - US Sales Brochure pg 19.jpg"
+ ]
+}
