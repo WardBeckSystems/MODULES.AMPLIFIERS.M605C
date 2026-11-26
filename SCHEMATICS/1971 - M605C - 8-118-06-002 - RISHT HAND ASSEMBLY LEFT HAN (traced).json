@@ -1,0 +1,109 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605C/SCHEMATICS/1971 - M605C - 8-118-06-002 - RISHT HAND ASSEMBLY LEFT HAN.jpg",
+ "version": 1,
+ "trace": "_traces/9a5bc7101a012656.svg",
+ "sheet": {
+  "number": "8-118-06-002",
+  "title": "Risht Hand Assembly Left Han",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1500],
+  "mm": [431.8, 323.9],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 25.5, 423.8, 306.4],
+ "outlines": {
+  "line": {"rings": 107, "straight": {"n": 2087, "mm": 6663.4}, "curved": {"n": 217, "mm": 222.0}},
+  "text": {"rings": 351, "straight": {"n": 2452, "mm": 2605.2}, "curved": {"n": 672, "mm": 805.4}},
+  "tb": {"rings": 6, "straight": {"n": 150, "mm": 244.7}, "curved": {"n": 13, "mm": 14.7}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [317.4, 89.0, 328.8, 95.2], "w": 11.4, "h": 6.3, "from": "ring", "in_title_block": true},
+  {"mm": [329.0, 88.7, 341.1, 95.0], "w": 12.1, "h": 6.3, "from": "ring", "in_title_block": true},
+  {"mm": [406.3, 87.0, 419.3, 93.5], "w": 13.0, "h": 6.5, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {
+   "mm": [318.2, 41.7, 419.8, 69.5],
+   "w": 101.5,
+   "h": 27.9,
+   "from": "ring",
+   "words": ["8-118A", "ISOLATION", "NETWORK", "COMPONENT LAYOUT"],
+   "in_title_block": true
+  },
+  {"mm": [331.4, 27.9, 394.2, 41.9], "w": 62.8, "h": 14.1, "from": "ring", "words": ["8-118-06-002"]},
+  {"mm": [319.3, 27.4, 331.4, 41.5], "w": 12.1, "h": 14.0, "from": "ring"},
+  {"mm": [394.7, 28.4, 420.0, 41.5], "w": 25.3, "h": 13.0, "from": "ring", "words": ["ISSUE"]}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [315.6, 279.6, 333.6, 286.1], "text": "NOTE"},
+   {"mm": [319.7, 273.3, 332.3, 278.6], "text": "ALL"},
+   {"mm": [335.5, 273.1, 397.5, 280.8], "text": "RESISToRS ARE"},
+   {"mm": [324.1, 266.9, 339.8, 271.7], "text": "75_"},
+   {"mm": [344.6, 266.9, 352.8, 272.1], "text": "V/2"},
+   {"mm": [117.4, 201.0, 130.8, 206.5], "text": "R2oz"},
+   {"mm": [197.1, 198.8, 210.9, 206.0], "text": "Rzxe"},
+   {"mm": [116.8, 193.0, 130.8, 198.5], "text": "R2o3"},
+   {"mm": [197.3, 191.3, 209.6, 196.8], "text": "R2o7"},
+   {"mm": [116.4, 184.8, 130.8, 189.6], "text": "R2o4"},
+   {"mm": [196.7, 182.4, 210.5, 189.2], "text": "Rzoe"},
+   {"mm": [116.4, 176.2, 130.8, 181.5], "text": "R2os"},
+   {"mm": [197.3, 175.1, 209.6, 180.6], "text": "R2og"},
+   {"mm": [106.0, 128.2, 148.1, 133.8], "text": "Risht HAND"},
+   {"mm": [176.0, 127.4, 214.8, 134.1], "text": "LEFT HAND"},
+   {"mm": [107.5, 120.9, 146.4, 127.4], "text": "ASSEMBLY"},
+   {"mm": [177.0, 120.9, 213.7, 127.4], "text": "ASSEMBLY"},
+   {"mm": [317.6, 89.4, 340.3, 94.2], "text": "ISSUE (DATE"},
+   {"mm": [364.0, 88.7, 383.0, 93.1], "text": "REVISION"},
+   {"mm": [408.9, 87.7, 417.6, 92.0], "text": "APP"},
+   {"mm": [293.2, 74.3, 414.5, 83.9], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [285.9, 64.6, 307.9, 69.3], "text": "DRN. GEB"},
+   {"mm": [285.0, 56.6, 315.6, 63.0], "text": "ENG GEB 1/79"},
+   {"mm": [357.3, 60.5, 376.7, 66.9], "text": "8-118A"},
+   {"mm": [339.0, 52.5, 396.8, 59.4], "text": "ISOLATION NETWORK"},
+   {"mm": [285.9, 49.9, 311.1, 55.8], "text": "CKD Ral"},
+   {"mm": [340.3, 44.3, 396.2, 51.2], "text": "COMPONENT LAYOUT"},
+   {"mm": [286.3, 44.0, 295.6, 48.4], "text": "APP"},
+   {"mm": [294.9, 36.9, 309.0, 42.2], "text": "SCALE"},
+   {"mm": [296.2, 30.7, 306.6, 37.1], "text": "2:1"},
+   {"mm": [342.2, 31.7, 382.6, 38.2], "text": "8-118-06-002"},
+   {"mm": [401.4, 36.5, 413.7, 40.8], "text": "ISSUE"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [276.4, 30.0, 426.1, 100.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE (DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN. GEB",
+   "ENG GEB 1/79",
+   "8-118A",
+   "ISOLATION NETWORK",
+   "CKD Ral",
+   "COMPONENT LAYOUT",
+   "APP",
+   "SCALE",
+   "2:1",
+   "8-118-06-002",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 8-118-06-002, size B (assumed) 432 × 324 mm, 2000 × 1500 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–424 mm across, 26–306 mm up",
+  "- **Outlines:** line 107 rings, 2,087 straight (6,663 mm) / 217 curved (222 mm); text 351 rings, 2,452 straight (2,605 mm) / 672 curved (805 mm); tb 6 rings, 150 straight (245 mm) / 13 curved (14.7 mm)",
+  "- **Closed boxes:** 7 (4 in the title block); named: 8-118-06-002; ISSUE",
+  "- **Words (OCR):** 38 in 32 lines: NOTE · ALL · RESISToRS ARE · 75_ · V/2 · R2oz · Rzxe · R2o3 · R2o7 · R2o4 · Rzoe · R2os",
+  "- **Title block:** (276, 30)–(426, 101) mm: ISSUE (DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. GEB · ENG GEB 1/79 · 8-118A · ISOLATION NETWORK · CKD Ral · COMPONENT LAYOUT · APP · SCALE · 2:1 · 8-118-06-002 · ISSUE"
+ ]
+}
