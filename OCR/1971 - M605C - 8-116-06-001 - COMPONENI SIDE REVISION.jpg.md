@@ -21,7 +21,7 @@ Wiki page: [M605C](../../../../PAGES/M605C.md)
 - **Words (OCR):** 169 in 135 lines: OUTLINE OF · AEAT · SinK FOR Q4,05,094Qi0_ · HF · LF · Off SET · OFF SET · 2n3569 · Tp · R9 20k · IRI2 Sk · R23 5ok
 - **Title block:** (280, 31)–(424, 100) mm: 2/80 · 3670 · PM · REVISION · APP · ISSUE DATE · WBS WARD-BECK SYSTEMS · DRN: GEB · 8-116 · ENG.GEB 2/79 · DA · AMPLIFIER · CKD Kel_ · COMPONENT LAYOUT · APP · SCALE · 8-116-06-001 · ISSUE · 2:1
 
-Every curve, box, word and wire group: [1971 - M605C - 8-116-06-001 - COMPONENI SIDE REVISION (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%208-116-06-001%20-%20COMPONENI%20SIDE%20REVISION%20(traced).json) (the CAD file: `1971 - M605C - 8-116-06-001 - COMPONENI SIDE REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M605C - 8-116-06-001 - COMPONENI SIDE REVISION (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%208-116-06-001%20-%20COMPONENI%20SIDE%20REVISION%20%28traced%29.json) (the CAD file: `1971 - M605C - 8-116-06-001 - COMPONENI SIDE REVISION (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M605C](../../../../PAGES/M605C.md)
 - **Title block:** (278, 48)–(421, 115) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SySTEMS · DRN · PkM · M6osc · ENG · AUDIO   DISTRIBUTION AMPLIFIER · CKD. · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 605-01-004
 - **Wiring (first pass):** 91 connected wire groups from 237 runs; labelled ends: 83 mm → ~6 dB), (-6 dB ); 79 mm → VAC; 64 mm → 605-01-004; 59 mm → OUt; 51 mm → OUt, PRE
 
-Every curve, box, word and wire group: [1971 - M605C - 605-01-004 - COMPARATORS OVERLOAD REF NORMAL REF (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%20605-01-004%20-%20COMPARATORS%20OVERLOAD%20REF%20NORMAL%20REF%20(traced).json) (the CAD file: `1971 - M605C - 605-01-004 - COMPARATORS OVERLOAD REF NORMAL REF (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M605C - 605-01-004 - COMPARATORS OVERLOAD REF NORMAL REF (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%20605-01-004%20-%20COMPARATORS%20OVERLOAD%20REF%20NORMAL%20REF%20%28traced%29.json) (the CAD file: `1971 - M605C - 605-01-004 - COMPARATORS OVERLOAD REF NORMAL REF (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M605C](../../../../PAGES/M605C.md)
 - **Words (OCR):** 118 in 117 lines: 436 · R45 · CkB · 620 · L4zoi · 244037 · 2k2 · 2735 · 735 · 33k · C22 · 7ip293
 - **Wiring (first pass):** 123 connected wire groups from 1,073 runs, 4 dotted junctions; labelled ends: 740 mm → ~DECK SYSTEMS; 28 mm → IN4/4B; 23 mm → R1o3, OEM; 20 mm → IN4/4B, 22k; 17 mm → Ri3
 
-Every curve, box, word and wire group: [1971 - M605C - 605-02-014 - ORN PA-EE MGOSC AUDIO DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%20605-02-014%20-%20ORN%20PA-EE%20MGOSC%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20(traced).json) (the CAD file: `1971 - M605C - 605-02-014 - ORN PA-EE MGOSC AUDIO DISTRIBUTION AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M605C - 605-02-014 - ORN PA-EE MGOSC AUDIO DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%20605-02-014%20-%20ORN%20PA-EE%20MGOSC%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1971 - M605C - 605-02-014 - ORN PA-EE MGOSC AUDIO DISTRIBUTION AMPLIFIER (traced).dxf`).
 
 ## Full text
 

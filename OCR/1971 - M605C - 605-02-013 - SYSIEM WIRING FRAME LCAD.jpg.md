@@ -23,7 +23,7 @@ Wiki page: [M605C](../../../../PAGES/M605C.md)
 - **Title block:** (296, 37)–(432, 104) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN.PMAo M · M6osc · ENG_ · AUDIO DISTRIBUTION AMPLIFIER · SYSTEM WIRING SCHEMATIC · APP · ISSUE · SCALE · 605-02 - 013
 - **Wiring (first pass):** 113 connected wire groups from 443 runs; labelled ends: 40 mm → II5VAC; 28 mm → OUT 10; 27 mm → OUT 10; 25 mm → OUT; 25 mm → MI5v AC, GoAz
 
-Every curve, box, word and wire group: [1971 - M605C - 605-02-013 - SYSIEM WIRING FRAME LCAD (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%20605-02-013%20-%20SYSIEM%20WIRING%20FRAME%20LCAD%20(traced).json) (the CAD file: `1971 - M605C - 605-02-013 - SYSIEM WIRING FRAME LCAD (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M605C - 605-02-013 - SYSIEM WIRING FRAME LCAD (traced).json](../SCHEMATICS/1971%20-%20M605C%20-%20605-02-013%20-%20SYSIEM%20WIRING%20FRAME%20LCAD%20%28traced%29.json) (the CAD file: `1971 - M605C - 605-02-013 - SYSIEM WIRING FRAME LCAD (traced).dxf`).
 
 ## Full text
 
