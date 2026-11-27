@@ -1,16 +1,16 @@
-# M605C · Amplifiers
+# M605C Audio Distribution Amplifier · Amplifiers
 
 Ward-Beck Systems M605C, 1971|4. Wiki page: [M605C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M605C.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 16 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 17 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 23 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -70,6 +70,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1971 - M605C - 605-02-013 - SYSIEM WIRING FRAME LCAD.kicad_sch](KICAD/1971%20-%20M605C%20-%20605-02-013%20-%20SYSIEM%20WIRING%20FRAME%20LCAD.kicad_sch)
 - [1971 - M605C - 605-02-014 - ORN PA-EE MGOSC AUDIO DISTRIBUTION AMPLIFIER.kicad_sch](KICAD/1971%20-%20M605C%20-%20605-02-014%20-%20ORN%20PA-EE%20MGOSC%20AUDIO%20DISTRIBUTION%20AMPLIFIER.kicad_sch)
 - [M605C.kicad_sym](KICAD/M605C.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
