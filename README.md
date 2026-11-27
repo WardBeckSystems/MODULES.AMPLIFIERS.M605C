@@ -13,6 +13,32 @@ Ward-Beck Systems M605C, 1971|4. Wiki page: [M605C on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 23 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [19xx - M605C - DOC - US Sales Brochure pg 23.jpg](MANUALS/19xx%20-%20M605C%20-%20DOC%20-%20US%20Sales%20Brochure%20pg%2023.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | +18 to -6 dB continuously variable (Bridging Gain). |
+| **Frequency response** | ±0.2 dB from 20 Hz to 20 kHz. |
+| **Noise** |  |
+| &nbsp;&nbsp;At maximum gain | at unity gain: 70 dB below +8 dBm _ 85 dB below +8 dBm (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.1% THD from 20 Hz to 20 kHz up to +24 dBm output Teve] with 4 isolated outputs simultaneously driven. |
+| **Input level** | -10 dBm to +14 dBm nomina 1 for +8 dBm output, +24 dBm maximum at unity gain. |
+| **Input impedance** | 30,000 ohms or greater, ba ]anced. |
+| **Source impedance** | 600 ohms or Tess, balanced. |
+| **Common mode rejection** | 65 dB or greater |
+| **Output level** | +8 dBm nomina ]. +24 dBm maximum at each output, up to 4 outputs maximum |
+| **Output impedance** | 150 ohms resistive at each output, actively baLanced |
+| **Load impedance** | 150 ohms baLanced for each isolated output_ Total minimum Toad impedance at DIRECT output not to be Tess than 75 ohms |
+| **Output isolation** | Phasing: 45 dB or greater (30 Hz to 35 kHz) The Tow termina ] number of the input pair and the Tow termina ] number of the output pair are in phase. |
+| **Power requirements** | 115 volts ac +10 %, 60 Hz, 20 VA |
+| **Ambient temperature** | 0 to 60 degrees Celsius |
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._

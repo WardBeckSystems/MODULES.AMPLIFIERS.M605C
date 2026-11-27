@@ -1,0 +1,256 @@
+{
+ "module": "M605C",
+ "title": "M605C AUDIO DISTRIBUTION AMPLIFIER",
+ "source": {
+  "file": "MANUALS/19xx - M605C - DOC - US Sales Brochure pg 23.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "+18 to -6 dB continuously variable (Bridging Gain).",
+   "quantities": [
+    {
+     "from": 18,
+     "to": -6,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.2 dB from 20 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 0.2,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "",
+   "items": [
+    {
+     "name": "At maximum gain",
+     "text": "at unity gain: 70 dB below +8 dBm _ 85 dB below +8 dBm (20 Hz to 20 kHz)",
+     "quantities": [
+      {
+       "value": 70,
+       "unit": "dB"
+      },
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "value": 85,
+       "unit": "dB"
+      },
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "value": 20,
+       "unit": "Hz"
+      },
+      {
+       "value": 20,
+       "unit": "kHz"
+      }
+     ],
+     "key": "at_maximum_gain"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.1% THD from 20 Hz to 20 kHz up to +24 dBm output Teve] with 4 isolated outputs simultaneously driven.",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-10 dBm to +14 dBm nomina 1 for +8 dBm output, +24 dBm maximum at unity gain.",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 14,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "30,000 ohms or greater, ba ]anced.",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or Tess, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Common mode rejection",
+   "key": "common_mode_rejection",
+   "text": "65 dB or greater",
+   "quantities": [
+    {
+     "value": 65,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+8 dBm nomina ]. +24 dBm maximum at each output, up to 4 outputs maximum",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "150 ohms resistive at each output, actively baLanced",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "150 ohms baLanced for each isolated output_ Total minimum Toad impedance at DIRECT output not to be Tess than 75 ohms",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    },
+    {
+     "value": 75,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output isolation",
+   "key": "output_isolation",
+   "text": "Phasing: 45 dB or greater (30 Hz to 35 kHz) The Tow termina ] number of the input pair and the Tow termina ] number of the output pair are in phase.",
+   "quantities": [
+    {
+     "value": 45,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 35,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "115 volts ac +10 %, 60 Hz, 20 VA",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "volts ac"
+    },
+    {
+     "value": 10,
+     "unit": "%"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 60 degrees Celsius",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  }
+ ]
+}
