@@ -1,6 +1,6 @@
 # M605C Audio Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M605C, 1971|4. Wiki page: [M605C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M605C.html)
+Ward-Beck Systems M605C, 1971|4. Wiki page: [M605C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M605C-Audio-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

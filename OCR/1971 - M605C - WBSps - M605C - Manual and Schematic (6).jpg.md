@@ -1,5 +1,5 @@
 # 1971 - M605C - WBSps - M605C - Manual and Schematic (6).jpg
-Wiki page: [M605C](../../../../PAGES/M605C.md)
+Wiki page: [M605C](../)
 
 
 - **Year:** 1971 (module estimate (family))

@@ -1,5 +1,5 @@
 # 1971 - M605C - 8-117-06-003 - INDICATOR DRIVER COMPONENT LAYOUT.jpg
-Wiki page: [M605C](../../../../PAGES/M605C.md)
+Wiki page: [M605C](../)
 
 
 - **Year:** 1971 (module estimate (family))

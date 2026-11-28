@@ -1,5 +1,5 @@
 # 1971 - M605C - 605-06-008 - AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT.jpg
-Wiki page: [M605C](../../../../PAGES/M605C.md)
+Wiki page: [M605C](../)
 
 
 - **Year:** 1971 (module estimate (family))
